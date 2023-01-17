@@ -7,4 +7,8 @@ public class SAPCommerce {
         System.out.println("Item removido do carrinho");
     }
 
+    public void updateItemFromCart() {
+        System.out.println("Item do carrinho Atualizado");
+    }
+
 }
